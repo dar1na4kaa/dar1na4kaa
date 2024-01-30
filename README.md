@@ -18,19 +18,19 @@
 <div id="prosmotr" align="center">
   <img src="https://komarev.com/ghpvc/?username=dar1na4kaa&style=flat-square&color=blue" alt=""/>
 </div>
+
+---
+
 <div align="center" id="hello">
   <h1>
   всем привет, я Дарина!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="200"/>
-</div>
 
----
 ### :woman_technologist: About Me :
 Я студентка из России, учусь на специальности "Информационные системы и программирование" <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> в Санкт-Петербурге.
+
 ---
 ### :hammer_and_wrench: Языки и средства :
 
