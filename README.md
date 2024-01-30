@@ -1,3 +1,4 @@
+![Snake animation](https://github.com/dar1na4kaa/dar1na4kaa/blob/output/github-contribution-grid-snake.svg)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRydDZpeWt2N2h2cm1kZWdjaDN6ZG9ld3NzMGx5djMyeXhocGFlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
