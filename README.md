@@ -48,4 +48,14 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dar1na4kaa&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dar1na4kaa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+### 🏆: Мои трофеи
+[![trophy](https://github-profile-trophy.vercel.app/?username=dar1na4kaa)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+### 😆: Just a Joke
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+
 
